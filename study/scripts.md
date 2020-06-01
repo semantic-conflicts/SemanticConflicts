@@ -1,4 +1,6 @@
-# Study Scripts
+title: Study Scripts
+layout: template
+filename: scripts.md
 
 Here you can find the scripts that we used to do our study. For now, we provide it as zip files to preserve the author's anonymity.
 
