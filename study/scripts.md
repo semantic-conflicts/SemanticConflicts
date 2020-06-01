@@ -1,4 +1,6 @@
-<h2>Study Scripts</h2>
+layout: page
+title: " Study Scripts"
+permalink: https://github.com/semantic-conflicts/SemanticConflicts/scripts
 
 Here you can find the scripts that we used to do our study. For now, we provide it as zip files to preserve the author's anonymity.
 
