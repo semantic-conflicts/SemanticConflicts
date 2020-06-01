@@ -1,6 +1,4 @@
-layout: page
-title: Study Scripts
-permalink: https://semantic-conflicts.github.io/SemanticConflicts/study/scripts
+# Study Scripts
 
 Here you can find the scripts that we used to do our study. For now, we provide it as zip files to preserve the author's anonymity.
 
@@ -9,3 +7,5 @@ Here you can find the scripts that we used to do our study. For now, we provide 
 	<li><a href="https://github.com/semantic-conflicts/SemanticConflicts/raw/master/scripts/mining-framework.zip" download="Mining Framework">Generating Dataset:</a> the framework we extended to generate the build files from the original and transformed versions.</li>
 	<li><a href="https://github.com/semantic-conflicts/SemanticConflicts/raw/master/scripts/swat.zip" download="Detecting Semantic Conflicts">Detecting Semantic Conflicts:</a> the scripts we used to generate, execute, and filter test cases, which reveal the semantic conflicts.</li>
 </ol>
+
+<a href="https://semantic-conflicts.github.io/SemanticConflicts/">Return to main page</a>
