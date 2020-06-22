@@ -10,7 +10,8 @@ Each change is represented as a row in the table bellow.
 <a href="https://semantic-conflicts.github.io/SemanticConflicts/">Return to main page</a>
 
 
-<a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/detected-cases.csv">Here</a> you can find the set of test cases that detected a semantic conflict.
+<a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/results-semantic-conflict-study.csv">Here</a> you can find the results reported by our study. For each row of the file, we classify it based on the analysis reported by our scripts.
+<a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/detected-cases.csv">Here</a> you can find in details the set of test cases that detected a semantic conflict.
 <a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/sample-semantic-conflicts.csv">Here</a> you can find further information regarding our sample (projects, merge scenarios, and changed classes).
 
 <table class="table table-bordered table-hover table-condensed">
