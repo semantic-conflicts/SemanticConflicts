@@ -139,8 +139,8 @@ Each change is represented as a row in the table bellow.
 <td>345ad9513aafff397050d613fa87ad06ddffe99d</td>
 <td>NO</td>
 <td>NO</td>
-<td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/SymianArmy/345ad9513aafff397050d613fa87ad06ddffe99d/original">Here</a></td>
-<td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/SymianArmy/345ad9513aafff397050d613fa87ad06ddffe99d/transformed">Here</a></td>
+<td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/SimianArmy/345ad9513aafff397050d613fa87ad06ddffe99d/original">Here</a></td>
+<td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/SimianArmy/345ad9513aafff397050d613fa87ad06ddffe99d/transformed">Here</a></td>
 </tr>
 <tr>
 <td>thinkaurelius/titan</td>
@@ -188,7 +188,7 @@ Each change is represented as a row in the table bellow.
 <td>NO</td>
 <td>NO</td>
 <td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/OpenTripPlanner/4c506dce43775704919d084f0acfba86d251bf4a/original">Here</a></td>
-<td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/OpenTripPlaner/4c506dce43775704919d084f0acfba86d251bf4a/transformed">Here</a></td>
+<td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/OpenTripPlanner/4c506dce43775704919d084f0acfba86d251bf4a/transformed">Here</a></td>
 </tr>
 <tr>
 <td>webbit/webbit</td>
@@ -219,8 +219,8 @@ Each change is represented as a row in the table bellow.
 <td>6tb09030e95e118a784ca7ec616398a4f0e384bcd</td>
 <td>NO</td>
 <td>NO</td>
-<td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/eureka/6tb09030e95e118a784ca7ec616398a4f0e384bcd/original">Here</a></td>
-<td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/eureka/6tb09030e95e118a784ca7ec616398a4f0e384bcd/transformed">Here</a></td>
+<td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/eureka/6b09030e95e118a784ca7ec616398a4f0e384bcd/original">Here</a></td>
+<td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/eureka/6b09030e95e118a784ca7ec616398a4f0e384bcd/transformed">Here</a></td>
 </tr>
 <tr>
 <td>atmosphere/atmosphere</td>
@@ -228,23 +228,23 @@ Each change is represented as a row in the table bellow.
 <td>NO</td>
 <td>NO</td>
 <td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/atmosphere/ffc0c6e274094c6423e29d1c45bab1593b8fac7d/original">Here</a></td>
-<td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/atmosphere/ffc0c6e274094c6423e29d1c45bab1593b8fac7d/transformed">Here</a></td>
+<td> - </td>
 </tr>
 <tr>
 <td>elastic/elasticsearch</td>
 <td>f3d63095dbcc985e24162fbac4ee0d6914dc757d</td>
 <td>NO</td>
 <td>NO</td>
-<td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/elastic-search/f3d63095dbcc985e24162fbac4ee0d6914dc757d/original">Here</a></td>
-<td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/elastic-search/f3d63095dbcc985e24162fbac4ee0d6914dc757d/transformed">Here</a></td>
+<td> - </td>
+<td> - </td>
 </tr>
 <tr>
 <td>elastic/elasticsearch</td>
 <td>36884807b3cc9d660db4da062275c7fdbec8ba67</td>
 <td>NO</td>
 <td>NO</td>
-<td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/elastic-search/36884807b3cc9d660db4da062275c7fdbec8ba67/original">Here</a></td>
-<td><a href="https://github.com/semantic-conflicts/SemanticConflicts/tree/master/results/elastic-search/36884807b3cc9d660db4da062275c7fdbec8ba67/transformed">Here</a></td>
+<td> - </td>
+<td> - </td>
 </tr>
 <tr>
 <td>resty-gwt/resty-gwt</td>
